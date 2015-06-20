@@ -1,4 +1,4 @@
 xpong
 =====
 
-Stupid highschool project
+Highschool project
